@@ -15,6 +15,7 @@ Sper ca iti place, iar codul sper sa-ti fie util pentru proiectul tau!
 ![Deposit](https://user-images.githubusercontent.com/118893406/230618012-1ee0353c-38a4-4fbd-aaab-2a5ed5e0b4d5.png)
 ![FastCash](https://user-images.githubusercontent.com/118893406/230618016-b3100ddb-b59c-49cf-b9b2-0d5c4c010a16.png)
 ![Withdrawal](https://user-images.githubusercontent.com/118893406/230618030-ae70ac96-2d07-4ce7-a097-bc8bc94e67ae.png)
-![Balance](https://user-images.githubusercontent.com/118893406/2306![PinChange](https://user-images.githubusercontent.com/118893406/230641300-68e784c1-afd2-4496-a5dc-d7036a4bcd8b.png)
+![Balance](https://user-images.githubusercontent.com/118893406/2306!
+[PinChange](https://user-images.githubusercontent.com/118893406/230641300-68e784c1-afd2-4496-a5dc-d7036a4bcd8b.png)
 18034-6f7d717b-59c8-4147-8307-650dde5a7b5f.png)
 ![Statement](https://user-images.githubusercontent.com/118893406/230618037-c8590ad4-580e-4a74-8f21-a085ceff5c57.png)
