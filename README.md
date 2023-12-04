@@ -1,10 +1,22 @@
 # Bank-Management-System
 
-Hello! This is my first complex application in the field of programming where I used Java Swing and MySQL. Below you will find a brief description of this application.
+### Overview
+This project is a Java-based application that simulates the functionalities of banking software. Developed using Java Swing for the user interface and MySQL for data management, it offers a comprehensive simulation of a banking environment.
 
-In this application, I used Java Swing and MySQL. The application mimics a banking software, where you can create an account if you don't have one, storing all the relevant registration data in a MySQL database. After registration, a card will be generated for you, starting with 5564, along with a 4-digit PIN, which you will use to log in. If you already have an account, you will be taken to a window where you can perform various actions, such as depositing money, withdrawing a desired or fixed amount of money, changing your card's PIN, viewing your account balance, and seeing a history of transactions.
+### Features
+- **Account Creation**: Users without an existing account can sign up, with all registration details securely stored in a MySQL database.
+- **Card and PIN Generation**: Upon registration, users receive a unique card number starting with 5564 and a 4-digit PIN, which are used for subsequent logins.
+- **Banking Operations**: For users with an existing account, the application provides a variety of banking operations. These include:
+  - **Depositing Money**: Users can deposit funds into their account.
+  - **Withdrawing Money**: The application allows for the withdrawal of a desired or fixed sum of money.
+  - **PIN Management**: Users have the option to change their card's PIN for enhanced security.
+  - **Balance Inquiry**: Account balance can be checked at any time.
+  - **Transaction History**: Users can view a detailed history of their transactions.
 
-I hope you like it, and I hope the code will be useful for your project!
+### Goal
+The aim of this project is to replicate the core features of banking software, providing a practical and educational tool for understanding banking operations and software development using Java Swing and MySQL.
+
+
 
 ![Login](https://user-images.githubusercontent.com/118893406/230641656-04e57654-72a5-4314-8c61-c678b3319e93.png)
 ![Singup](https://user-images.githubusercontent.com/118893406/230641666-52487f6e-18d9-4057-bb2b-93456e87f4e7.png)
