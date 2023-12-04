@@ -1,10 +1,10 @@
 # Bank-Management-System
 
-Salut! Aceasta este prima mea aplicatie complexa din domeniul programarii unde am folosit Java Swing si MySQL. Mai jos gasesti o scurta descriere a acestei aplicatii.
+Hello! This is my first complex application in the field of programming where I used Java Swing and MySQL. Below you will find a brief description of this application.
 
-In cadrul acestei aplicatii am folosit Java Swing si MySQL. Aplicatia imita un soft bancar, unde poti sa iti faci cont, in cazul in care nu ai unul, memorand toate datele aferente inregistrarii intr-o baza de date MySQL. Dupa inregistrare iti va fi generat cardul, care incepe cu 5564 si un pin din 4 cifre, date cu care te vei putea loga. In cazul in care ai deja cont, vei fi bagat intr-o fereastra unde poti sa faci diferite actiuni, cum ar fi sa depozitezi bani, sa retragi o suma dorita sau o suma fixa de bani, sa iti schimbi pinul cardului, sa iti vezi soldul contului si sa vezi un istoric al tranzactiilor.
+In this application, I used Java Swing and MySQL. The application mimics a banking software, where you can create an account if you don't have one, storing all the relevant registration data in a MySQL database. After registration, a card will be generated for you, starting with 5564, along with a 4-digit PIN, which you will use to log in. If you already have an account, you will be taken to a window where you can perform various actions, such as depositing money, withdrawing a desired or fixed amount of money, changing your card's PIN, viewing your account balance, and seeing a history of transactions.
 
-Sper ca iti place, iar codul sper sa-ti fie util pentru proiectul tau!
+I hope you like it, and I hope the code will be useful for your project!
 
 ![Login](https://user-images.githubusercontent.com/118893406/230641656-04e57654-72a5-4314-8c61-c678b3319e93.png)
 ![Singup](https://user-images.githubusercontent.com/118893406/230641666-52487f6e-18d9-4057-bb2b-93456e87f4e7.png)
